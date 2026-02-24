@@ -1,0 +1,61 @@
+House configuration report.
+
+HOUSE INFO:
+Amount of residents: 6
+Amount of floors: 2
+
+FLOORS INFO:
+Floor 1 contains 3 rooms
+Floor 2 contains 3 rooms
+
+ROOMS INFO:
+ROOMS ON FLOOR 1:
+Room LIVING_ROOM has 3 devices
+Room KITCHEN has 3 devices
+Room BATHROOM has 2 devices
+---
+ROOMS ON FLOOR 2:
+Room BEDROOM has 3 devices
+Room BEDROOM has 2 devices
+Room OFFICE has 1 devices
+---
+
+DEVICES INFO:
+ON FLOOR 1
+IN ROOM: LIVING_ROOM
+1) Television
+2) SmartSpeaker
+3) SmartLight
+
+IN ROOM: KITCHEN
+1) Fridge
+2) Multicooker
+3) SmartKettle
+
+IN ROOM: BATHROOM
+1) SmartLight
+2) SaunaStove
+
+---
+ON FLOOR 2
+IN ROOM: BEDROOM
+1) SmartLight
+2) SmartSpeaker
+3) Blinds
+
+IN ROOM: BEDROOM
+1) SmartLight
+2) Television
+
+IN ROOM: OFFICE
+1) SmartLight
+
+---
+
+PEOPLE INFO:
+1) FATHER
+2) MOTHER
+3) SON
+4) DAUGHTER
+5) GRANDPA
+6) GRANDMA

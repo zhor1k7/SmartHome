@@ -1,0 +1,56 @@
+ACTIVITY REPORT
+
+FATHER performed USE on SMART_TV
+MOTHER performed REFILL on LG_105
+GRANDMA performed USE on BasketballHoop
+FATHER performed USE on BasketballHoop
+MOTHER performed USE on ExerciseBike
+SON performed USE on SMART_TV
+DAUGHTER performed USE on Badminton
+GRANDPA performed USE on Skate
+GRANDMA performed USE on NikeJordan
+FATHER performed USE on BasketballHoop
+SON performed USE on ExerciseBike
+DAUGHTER performed USE on SMART_TV
+GRANDPA performed USE on ALISA
+GRANDMA performed USE on LIGHT1
+FATHER performed USE on BasketballHoop
+SON performed USE on ExerciseBike
+DAUGHTER performed USE on Badminton
+GRANDPA performed USE on Skate
+GRANDMA performed USE on NikeJordan
+FATHER performed REPAIR on LIGHT1
+MOTHER performed REFILL on LG_105
+SON performed USE on BasketballHoop
+DAUGHTER performed USE on SMART_TV
+GRANDPA performed USE on ExerciseBike
+GRANDMA performed USE on Badminton
+FATHER performed USE on SMART_TV
+MOTHER performed USE on BasketballHoop
+SON performed USE on ALISA
+DAUGHTER performed USE on LIGHT1
+GRANDPA performed USE on ExerciseBike
+MOTHER performed USE on BasketballHoop
+SON performed USE on ExerciseBike
+DAUGHTER performed USE on Badminton
+GRANDPA performed USE on SMART_TV
+FATHER performed REPAIR on Desk-Light
+MOTHER performed REFILL on LG_105
+SON performed USE on SMART_TV
+DAUGHTER performed USE on ALISA
+GRANDPA performed USE on LIGHT1
+FATHER performed USE on BasketballHoop
+MOTHER performed USE on ExerciseBike
+SON performed USE on SMART_TV
+DAUGHTER performed USE on Badminton
+GRANDPA performed USE on Skate
+MOTHER performed USE on BasketballHoop
+SON performed USE on SMART_TV
+DAUGHTER performed USE on ALISA
+GRANDPA performed USE on ExerciseBike
+GRANDMA performed USE on Badminton
+
+--- SUMMARY ---
+Device usage count: 16
+Sport usage count: 28
+Device / Sport usage ratio: 0.5714285714285714

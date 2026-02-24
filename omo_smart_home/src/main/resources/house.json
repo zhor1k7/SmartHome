@@ -1,0 +1,182 @@
+{
+  "floors": [
+    {
+      "level": 1,
+      "rooms": [
+        {
+          "name": "LivingRoom",
+          "type": "LIVING_ROOM",
+          "devices": [
+            {
+              "type": "Television",
+              "id": "SMART_TV",
+              "description": "Samsung Smart TV"
+            },
+            {
+              "type": "SmartSpeaker",
+              "id": "ALISA",
+              "description": "Google Nest"
+            },
+            {
+              "type": "SmartLight",
+              "id": "LIGHT1",
+              "description": "Ceiling Light"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "type": "KITCHEN",
+          "devices": [
+            {
+              "type": "Fridge",
+              "id": "LG_105",
+              "description": "LG Fridge"
+            },
+            {
+              "type": "Multicooker",
+              "id": "Redmond",
+              "description": "Redmond Multicooker"
+            },
+            {
+              "type": "SmartKettle",
+              "id": "Xiomi",
+              "description": "Xiaomi Kettle"
+            }
+          ]
+        },
+        {
+          "name": "Bathroom",
+          "type": "BATHROOM",
+          "devices": [
+            {
+              "type": "SmartLight",
+              "id": "LIGHT2",
+              "description": "Bathroom Light"
+            },
+            {
+              "type": "Heater",
+              "id": "Heater",
+              "description": "Water Heater"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "rooms": [
+        {
+          "name": "BedroomParents",
+          "type": "BEDROOM",
+          "devices": [
+            {
+              "type": "SmartLight",
+              "id": "Bed_Light",
+              "description": "Bed Light"
+            },
+            {
+              "type": "SmartSpeaker",
+              "id": "Bedroom Speaker",
+              "description": "Bedroom Speaker"
+            },
+            {
+              "type": "Blinds",
+              "id": "blinds-1",
+              "description": "Window Blinds"
+            }
+          ]
+        },
+        {
+          "name": "BedroomKids",
+          "type": "BEDROOM",
+          "devices": [
+            {
+              "type": "SmartLight",
+              "id": "Kids-Light",
+              "description": "Kids Light"
+            },
+            {
+              "type": "Television",
+              "id": "Kids-TV",
+              "description": "Kids TV"
+            }
+          ]
+        },
+        {
+          "name": "Office",
+          "type": "OFFICE",
+          "devices": [
+
+            {
+              "type": "SmartLight",
+              "id": "Desk-Light",
+              "description": "Desk Light"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "garden": {
+    "devices": [
+      {
+        "type": "OutdoorGate",
+        "id": "Main-Gate",
+        "description": "Main Gate"
+      },
+      {
+        "type": "SmartLight",
+        "id": "Garden-Light",
+        "description": "Garden Light"
+      },
+      {
+        "type": "SmartVacuum",
+        "id": "Robot-Cleaner",
+        "description": "Robot Cleaner"
+      }
+    ]
+  },
+
+  "residents": [
+    {
+      "name": "Father",
+      "personType": "FATHER",
+      "startRoom": "LivingRoom"
+    },
+    {
+      "name": "Mother",
+      "personType": "MOTHER",
+      "startRoom": "Kitchen"
+    },
+    {
+      "name": "Son",
+      "personType": "SON",
+      "startRoom": "BedroomKids"
+    },
+    {
+      "name": "Daughter",
+      "personType": "DAUGHTER",
+      "startRoom": "BedroomKids"
+    },
+    {
+      "name": "Grandfather",
+      "personType": "GRANDPA",
+      "startRoom": "BedroomParents"
+    },
+    {
+      "name": "GrandMother",
+      "personType": "GRANDMA",
+      "startRoom": "LivingRoom"
+    }
+  ],
+
+  "sportItems": [
+    { "name": "BasketballHoop", "type": "BASKETBALLHOOP" },
+    { "name": "ExerciseBike", "type": "BICYCLE" },
+    { "name": "Badminton", "type": "BADMINTON" },
+    { "name": "Skate", "type": "SKATE" },
+    { "name": "NikeJordan", "type": "RUNNINGSHOES" }
+  ]
+}

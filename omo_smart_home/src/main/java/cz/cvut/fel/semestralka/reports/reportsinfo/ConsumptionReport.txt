@@ -1,0 +1,39 @@
+CONSUMPTION REPORT
+
+GENERAL CONSUMPTION:
+Total water consumption: 0.0
+Total electricity consumption: 12.5
+---
+DEVICES CONSUMPTION:
+Device 'Television' consumption:
+Water: 0.0
+Electricity: 4.5
+
+Device 'SmartSpeaker' consumption:
+Water: 0.0
+Electricity: 4.0
+
+Device 'SmartLight' consumption:
+Water: 0.0
+Electricity: 4.0
+
+Device 'Fridge' consumption:
+Water: 0.0
+Electricity: 0.0
+
+Device 'Multicooker' consumption:
+Water: 0.0
+Electricity: 0.0
+
+Device 'SmartKettle' consumption:
+Water: 0.0
+Electricity: 0.0
+
+Device 'SaunaStove' consumption:
+Water: 0.0
+Electricity: 0.0
+
+Device 'Blinds' consumption:
+Water: 0.0
+Electricity: 0.0
+
